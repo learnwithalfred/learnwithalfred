@@ -12,5 +12,5 @@
 ### Some github projects
 
 -  <a href="https://github.com/learnwithalfred/stack_overflow_clone"> Stackoverflow clone </a>
--  <a href="https://github.com/learnwithalfred/earlynode_clone">Eealy Node Clone </a>
+-  <a href="https://github.com/learnwithalfred/earlynode_clone">Early Node Clone </a>
 - <a href="https://github.com/learnwithalfred/alfred-for-cms-christ-model-"> Christ Model School Website</a>
