@@ -1,21 +1,18 @@
 ### Hi, I'm Alfred 👋
+
 ---
 
 <p align="center">
   <img src="Alfred-boateng-img.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I'm Alfred Boateng, a software engineer with experience in JavaScript, React, MongoDB and more. I've been working on my own projects for about 2 years. My goal is to get a React Developer Job
+I'm Alfred Boateng, a software engineer with experience in JavaScript, React, MongoDB and more. My goal is to get a React Developer Job
 
-🌱 I’m looking for a new opening 
+🌱 I’m looking for a new opening
 
-👯 I’m looking to collaborate for a Flutter and ML-based project
-
+👯 I’m looking to collaborate for Javascript and React Projects
 
 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
-
-
-
 
 ### Tech & Tools Preference
 
@@ -31,18 +28,25 @@ I'm Alfred Boateng, a software engineer with experience in JavaScript, React, Mo
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-
-
+<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
 
 ---
 
-
 ### You can find in me in the web 🌍
-[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]([google.com](https://alfredboateng-portfolio.vercel.app))
+
+[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](<[google.com](https://alfredboateng-portfolio.vercel.app)>)
 [<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@programmingwithalfred)
 [<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/kb_alfred)
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/alfred-boateng-704670138/)
 [<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://web.facebook.com/alfredkwadwoboateng/)
 
 <br/>
+
+---
+
+[![Alfred's GitHub stats](https://github-readme-stats.vercel.app/api/?username=learnwithalfred&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/learnwithalfred/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=learnwithalfred&layout=compact)](https://github.com/learnwithalfred/github-readme-stats)
+
