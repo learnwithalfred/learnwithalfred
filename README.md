@@ -8,7 +8,7 @@
 
 ---
 
-I'm Alfred Boateng, a software engineer with experience in JavaScript, React, MongoDB and more. My goal is to get a React Developer Job
+I'm Alfred Boateng, a software engineer with experience in JavaScript, React, MongoDB, and more. My goal is to get a React Developer Job
 
 🌱 I’m looking for a new job opening
 
