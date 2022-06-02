@@ -48,5 +48,5 @@ I'm Alfred Boateng, a software engineer with experience in JavaScript, React, Mo
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=learnwithalfred&layout=compact)](https://github.com/learnwithalfred/github-readme-stats)
+[![Top Langs I have used](https://github-readme-stats.vercel.app/api/top-langs/?username=learnwithalfred&layout=compact)](https://github.com/learnwithalfred/github-readme-stats)
 
