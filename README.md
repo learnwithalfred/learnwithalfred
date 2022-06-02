@@ -7,9 +7,6 @@
 
 I'm Alfred Boateng, a software engineer with experience in JavaScript, React, MongoDB and more. I've been working on my own projects for about 2 years. My goal is to get a React Developer Job
 
-🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
-
-
 🌱 I’m looking for a new opening 
 
 👯 I’m looking to collaborate for a Flutter and ML-based project
