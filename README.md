@@ -2,9 +2,11 @@
 
 ---
 
-<p align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&vCenter=true&lines=Full+stack+JavaScript%2C+React.js%2C+Node++developer;Seeking+job+opportunities)](https://git.io/typing-svg)
+
+<!-- <p align="center">
   <img src="Alfred-boateng-img.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
+</p> -->
 
 ---
 
