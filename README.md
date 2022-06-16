@@ -1,14 +1,17 @@
 ### Hi, I'm Alfred 👋
 
----
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&vCenter=true&lines=Full+stack+JavaScript%2C+React.js%2C+Node++developer;Seeking+job+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=31&duration=4000&center=true&vCenter=true&lines=Full+stack+JavaScript%2C+React.js%2C+Node++developer;Seeking+job+opportunities)](https://git.io/typing-svg)
 
 <!-- <p align="center">
   <img src="Alfred-boateng-img.png" width="100%" title="Intro Card" alt="Intro Card">
 </p> -->
 
----
+
+
+<br />
+<br />
+
 
 I'm Alfred Boateng, a software engineer with experience in JavaScript, React, MongoDB, and more. My goal is to get a React Developer Job
 
