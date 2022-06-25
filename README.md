@@ -3,11 +3,16 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=4000&center=true&vCenter=true&width=1200&height=100&lines=Full+stack+JavaScript%2C+React.js%2C+Node++developer;Seeking+job+opportunities)](https://git.io/typing-svg) -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="Alfred-boateng-img.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
+ -->
+---
 
-
+<a href="https://github.com/learnwithalfred">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=learnwithalfred&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnwithalfred&theme=buefy&layout=compact" />
+</a>
 
 <br />
 <br />
@@ -61,9 +66,4 @@ I'm Alfred Boateng, a software engineer with experience in JavaScript, React, Mo
 
 <br/>
 
----
 
-<a href="https://github.com/learnwithalfred">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=learnwithalfred&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnwithalfred&theme=buefy&layout=compact" />
-</a>
