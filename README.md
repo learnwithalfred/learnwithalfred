@@ -20,13 +20,20 @@
 
 I'm Alfred Boateng, a software engineer with experience in JavaScript, React, MongoDB, and more. My goal is to get a React Developer Job
 
-🌱 I’m looking for a new job opening
-
 👯 I’m looking to collaborate for Javascript and React Projects
 
-🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+💬 I’m looking for a new job opening
 
-💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
+---
+
+<h3> 🧗‍♂️ &nbsp;Some Posts</h3>
+
+✔️ [React Redux toolkit app fro scratch](https://medium.com/@learnwithalfred/react-with-redux-toolkit-and-createasyncthunk-complementary-guide-c3a3bb2a1113)
+
+✔️ [A guide on choosing an Online course](https://medium.com/@learnwithalfred/before-you-enroll-in-an-online-course-there-is-something-you-should-know-a2b0849b5ce9)
+
+✔️ [Free resources to learn how to code](https://medium.com/@learnwithalfred/four-free-well-structured-resources-to-learn-how-to-code-c0d5f3d29858)
+
 
 ---
 
