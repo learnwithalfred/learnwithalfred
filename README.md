@@ -28,6 +28,8 @@ I'm Alfred Boateng, a software engineer with experience in JavaScript, React, Mo
 
 <h3> 🧗‍♂️ &nbsp;Some Posts</h3>
 
+✔️ [Learn ruby on rails and react.js](https://alfredboateng.netlify.app/#/blogs)
+
 ✔️ [React Redux toolkit app fro scratch](https://medium.com/@learnwithalfred/react-with-redux-toolkit-and-createasyncthunk-complementary-guide-c3a3bb2a1113)
 
 ✔️ [A guide on choosing an Online course](https://medium.com/@learnwithalfred/before-you-enroll-in-an-online-course-there-is-something-you-should-know-a2b0849b5ce9)
