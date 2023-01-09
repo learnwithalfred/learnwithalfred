@@ -18,7 +18,8 @@
 <br />
 
 
- I am a Mid Level full-stack JavaScript, Node.js, and Ruby on Rails developer with over three years of experience. I am a self-motivated and hardworking individual who can work well in a team environment. I am a fast learner, willing to learn new skills. I am very creative, always looking for new ways to improve my skills.
+Diligent software engineer with 3+ years of experience in web application development. Looking for my next role to build innovative and cutting-edge business solutions for an impressive suite of clients. Experience includes completing 3 web applications as a freelancer, and mentoring 2 junior developers providing technical support through code reviews. Strong skills include JavaScript, Ruby on Rails, Node.js, React.js PHP, and Debugging.
+
 
 
 💬 I’m looking for a new job opening
