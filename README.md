@@ -11,7 +11,7 @@
 - 👀 Diligent software engineer with 3+ years of experience in web application development. Looking for my next role to build innovative and cutting-edge business solutions for an impressive suite of clients. Experience includes completing 3 web applications as a freelancer, and mentoring 2 junior developers providing technical support through code reviews. Strong skills include JavaScript, Ruby on Rails, Node.js, React.js PHP, and Debugging.
 - My hobbies are listening to music, coding and reading books
 
-- Graduated and completed the Full-stack web develoment curriculum at Microverse inc.
+- Graduated and completed the Full-stack web develoment curriculum at [Microverse inc](https://www.microverse.org/).
 
 - 📫 You can reach me via mail: learnwithalfred@gmail.com
 - 📫 [Visit my website](https://alfredboateng.netlify.app/)
