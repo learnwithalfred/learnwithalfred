@@ -9,18 +9,18 @@
  -->
 ---
 
-<!-- <a href="https://github.com/learnwithalfred">
+ <a href="https://github.com/learnwithalfred">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=learnwithalfred&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnwithalfred&theme=buefy&layout=compact" />
 </a>
 
 <br />
 <br />
- -->
+
 
 Diligent software engineer with 3+ years of experience in web application development. Looking for my next role to build innovative and cutting-edge business solutions for an impressive suite of clients. Experience includes completing 3 web applications as a freelancer, and mentoring 2 junior developers providing technical support through code reviews. Strong skills include JavaScript, Ruby on Rails, Node.js, React.js PHP, and Debugging.
 
-
+- 📫 You can reach me via mail: learnwithalfred@gmail.com
 
 💬 I’m looking for a new job opening
 
@@ -67,9 +67,9 @@ Diligent software engineer with 3+ years of experience in web application develo
 
 ### You can find in me in the web 🌍
 
-[<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@programmingwithalfred)
-[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/kb_alfred)
-[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/learnwithalfred/)
+[<img align="left" alt="Alfred Boateng | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@learnwithalfred)
+[<img align="left" alt="Alfred BOateng | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/kb_alfred)
+[<img align="left" alt="Alfred BOateng | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/learnwithalfred/)
 
 <br/>
 
