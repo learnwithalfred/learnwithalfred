@@ -35,11 +35,14 @@
 
 ✔️ [Learn ruby on rails and react.js](https://alfredboateng.netlify.app/#/blogs)
 
-✔️ [React Redux toolkit app fro scratch](https://medium.com/@learnwithalfred/react-with-redux-toolkit-and-createasyncthunk-complementary-guide-c3a3bb2a1113)
+✔️ [React with Redux toolkit and CreateAsyncThunk Complementary Guide
+](https://medium.com/@learnwithalfred/react-with-redux-toolkit-and-createasyncthunk-complementary-guide-c3a3bb2a1113)
 
-✔️ [A guide on choosing an Online course](https://medium.com/@learnwithalfred/before-you-enroll-in-an-online-course-there-is-something-you-should-know-a2b0849b5ce9)
+✔️ [Before you enroll in an online course, there is something you should know
+](https://medium.com/@learnwithalfred/before-you-enroll-in-an-online-course-there-is-something-you-should-know-a2b0849b5ce9)
 
-✔️ [Free resources to learn how to code](https://medium.com/@learnwithalfred/four-free-well-structured-resources-to-learn-how-to-code-c0d5f3d29858)
+✔️ [Four Free Well Structured Resources to learn to code
+](https://medium.com/@learnwithalfred/four-free-well-structured-resources-to-learn-how-to-code-c0d5f3d29858)
 
 
 ---
