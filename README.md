@@ -7,7 +7,18 @@
   <img src="Alfred-boateng-img.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
  -->
----
+ 
+- 👀 Diligent software engineer with 3+ years of experience in web application development. Looking for my next role to build innovative and cutting-edge business solutions for an impressive suite of clients. Experience includes completing 3 web applications as a freelancer, and mentoring 2 junior developers providing technical support through code reviews. Strong skills include JavaScript, Ruby on Rails, Node.js, React.js PHP, and Debugging.
+- My hobbies are listening to music, coding and reading books
+
+- Graduated and completed the Full-stack web develoment curriculum at Microverse inc.
+
+- 📫 You can reach me via mail: learnwithalfred@gmail.com
+- 📫 [Visit my website](https://alfredboateng.netlify.app/)
+- 💬 I’m looking for a new job opening
+
+<br />
+<br />
 
  <a href="https://github.com/learnwithalfred">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=learnwithalfred&theme=buefy&show_icons=true" />
@@ -18,13 +29,7 @@
 <br />
 
 
-Diligent software engineer with 3+ years of experience in web application development. Looking for my next role to build innovative and cutting-edge business solutions for an impressive suite of clients. Experience includes completing 3 web applications as a freelancer, and mentoring 2 junior developers providing technical support through code reviews. Strong skills include JavaScript, Ruby on Rails, Node.js, React.js PHP, and Debugging.
 
-- 📫 You can reach me via mail: learnwithalfred@gmail.com
-
-💬 I’m looking for a new job opening
-
----
 
 <h3> 🧗‍♂️ &nbsp;Some Posts</h3>
 
