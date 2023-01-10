@@ -21,8 +21,12 @@
 <br />
 
  <a href="https://github.com/learnwithalfred">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=learnwithalfred&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnwithalfred&theme=buefy&layout=compact" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=learnwithalfred&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=learnwithalfred&theme=buefy&layout=compact" /> -->
+  
+  [![Alfred's GitHub stats](https://github-readme-stats.vercel.app/api?username=learnwithalfred&count_private=true&show_icons=true&theme=buefy)](https://github.com/learnwithalfred)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=learnwithalfred&theme=buefy)](https://github.com/learnwithalfred)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=learnwithalfred&show_icons=true&theme=buefy&layout=compact)](https://github.com/learnwithalfred)
 </a>
 
 <br />
