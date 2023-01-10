@@ -73,12 +73,7 @@
 
 ---
 
-### You can find in me in the web 🌍
-
-[<img align="left" alt="Alfred Boateng | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@learnwithalfred)
-[<img align="left" alt="Alfred BOateng | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/kb_alfred)
-[<img align="left" alt="Alfred BOateng | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/learnwithalfred/)
-
-<br/>
+### Connect With Me
+<a href="https://twitter.com/kb_alfred"><img width="65px" src="https://img.icons8.com/doodle/2x/twitter--v1.png"><a href="https://linkedin.com/in/learnwithalfred"><img width="65px" src="https://img.icons8.com/doodle/2x/linkedin--v2.png">
 
 
