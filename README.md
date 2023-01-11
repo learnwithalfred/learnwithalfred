@@ -37,8 +37,6 @@
 
 <h3> 🧗‍♂️ &nbsp;Some Posts</h3>
 
-✔️ [Learn ruby on rails and react.js](https://alfredboateng.netlify.app/#/blogs)
-
 ✔️ [React with Redux toolkit and CreateAsyncThunk Complementary Guide
 ](https://medium.com/@learnwithalfred/react-with-redux-toolkit-and-createasyncthunk-complementary-guide-c3a3bb2a1113)
 
