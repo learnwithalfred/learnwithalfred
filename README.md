@@ -8,14 +8,14 @@
 </p>
  -->
  
-- 👀 I am an energetic full-stack developer with 4+ years of experience developing robust code for high-volume businesses. I am a fast learner who enjoys reading technical blogs and studying work history which teaches me new skill sets and creative ideas. I am an enthusiastic team player and a deep creative thinker as I am working online. I love teaching 
+- 👀 I am an energetic full-stack developer with 4+ years of experience developing robust code for high-volume businesses. I am a fast learner who enjoys reading technical blogs and studying work history which teaches me new skill sets and creative ideas. I am an enthusiastic team player and a deep creative thinker as I am working online. I love teaching SWE content on [Youtube](https://www.youtube.com/@learnwithalfred)
 
 - 👨‍🎓 Graduated and completed the Full-stack web develoment curriculum at [Microverse inc](https://www.microverse.org/).
 
 - 📫 You can reach me via mail: learnwithalfred@gmail.com
 - 🚀 [Visit my website](https://alfredboateng.netlify.app/)
+- [Youtube](https://www.youtube.com/@learnwithalfred)
 - 💬 I’m looking for a new job opening
-
 <br />
 <br />
 
