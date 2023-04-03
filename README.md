@@ -8,8 +8,7 @@
 </p>
  -->
  
-- 👀 Diligent software engineer with 2+ years of experience in web application development. Looking for my next role to build innovative and cutting-edge business solutions for an impressive suite of clients. Experience includes completing 3 web applications as a freelancer, and mentoring junior developers providing technical support through code reviews. Strong skills include JavaScript, Ruby on Rails, Node.js, React.js PHP, and Debugging.
-- ⛹️‍♂️ My hobbies are listening to music, coding and reading books
+- 👀 I am an energetic full-stack developer with 4+ years of experience developing robust code for high-volume businesses. I am a fast learner who enjoys reading technical blogs and studying work history which teaches me new skill sets and creative ideas. I am an enthusiastic team player and a deep creative thinker as I am working online. I love teaching 
 
 - 👨‍🎓 Graduated and completed the Full-stack web develoment curriculum at [Microverse inc](https://www.microverse.org/).
 
