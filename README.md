@@ -8,7 +8,7 @@
 </p>
  -->
  
-- 👀 I am an energetic full-stack developer with 4+ years of experience developing robust code for high-volume businesses. I am a fast learner who enjoys reading technical blogs and studying work history which teaches me new skill sets and creative ideas. I am an enthusiastic team player and a deep creative thinker as I am working online. I love teaching SWE content on [Youtube](https://www.youtube.com/@learnwithalfred)
+- 👀 Energetic full-stack developer with 3+ years of experience developing robust code for enterprise businesses. A fast learner that enjoys technical research that further develops my skills, and creative projects. Love teaching SWE content on [Youtube](https://www.youtube.com/@learnwithalfred)
 
 - 👨‍🎓 Graduated and completed the Full-stack web develoment curriculum at [Microverse inc](https://www.microverse.org/).
 
