@@ -8,7 +8,7 @@
 </p>
  -->
  
-- 👀 Energetic full-stack developer with 3+ years of experience developing robust code for enterprise businesses. A fast learner that enjoys technical research that further develops my skills, and creative projects. Love teaching SWE content on [Youtube](https://www.youtube.com/@learnwithalfred)
+- 👀 Well-qualified Full Stack Developer familiar with wide range of programming utilities and languages. Knowledgeable of backend and frontend development requirements. Handles any part of process with ease. Collaborative team player with excellent technical abilities offering 3 years of related experience.
 
 - 👨‍🎓 Graduated and completed the Full-stack web develoment curriculum at [Microverse inc](https://www.microverse.org/).
 
